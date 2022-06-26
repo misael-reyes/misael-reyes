@@ -2,9 +2,15 @@
     <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>
     <h1 align="center">Hi there 👋, my name is Esteban Misael</h1>
     <h3 align="center">
-        I am a resident of Computer Systems Engineering at the TecNM Oaxaca campus. I love developing native apps for android and backend development
+        I am Computer Systems Engineering resident at the TecNM Oaxaca campus. I love developing native apps for android and backend development
     </h3>
 </div>
+
+---
+### 👨‍💻 About me
+- 🔭 I’m currently working on **personal projects**
+- 💬 Ask me about **Java, Kotlin, PHP and Laravel**
+- 📫 How to reach me: **emisaelreyesc11@gmail.com**
 
 ---
 <div align="left">
