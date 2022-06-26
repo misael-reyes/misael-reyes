@@ -1,8 +1,8 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>
-    <h1 align="center">Hi there 👋, my name is Esteban Misael...</h1>
+    <h1 align="center">Hi there 👋, my name is Esteban Misael</h1>
     <h3 align="center">
-        I am a resident of Computer Systems Engineering at the TecNM, Oaxaca campus and an aspiring full-stack android developer.
+        I am a resident of Computer Systems Engineering at the TecNM Oaxaca campus. I love developing native apps for android and backend development
     </h3>
 </div>
 
@@ -12,9 +12,9 @@
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java"
         width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin"
         width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP"
         width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android"
         width="40" height="40"/>&nbsp;
@@ -34,7 +34,6 @@
         width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="HitHub"
         width="40" height="40"/>&nbsp;
-      
     </div>
 </div>
 
@@ -42,19 +41,30 @@
 <div align="left">
     <h3>📖 Learning</h3>
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin"
+      <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase"
         width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Java" alt="Java"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python"
+        width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django"
         width="40" height="40"/>&nbsp;
     </div>
 </div>
 
 ---
 <div align="left">
-    <h3>✉️ Contact me</h3>
-    <div>
-        
-    </div>
+    <h3>✉️ Connect with me</h3>
+    <a href="https://www.linkedin.com/in/misaelreyes/" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin"
+            width="40" height="40"/>&nbsp;
+    </a>
+    <a href="https://www.facebook.com/emisaelreyesc" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="Facebook"
+            width="40" height="40"/>&nbsp;
+    </a>
+    <a href="https://twitter.com/misaelstark11" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter badge"
+            width="40" height="40"/>&nbsp;
+     </a>
 </div>
 <!--
 **misael-reyes/misael-reyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
