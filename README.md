@@ -49,7 +49,9 @@
 <div align="left">
     <h3>📖 Learning</h3>
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart"
+        width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter"
         width="40" height="40"/>&nbsp;
     </div>
 </div>
