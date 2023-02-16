@@ -9,7 +9,7 @@
 ---
 ### 👨‍💻 About me
 - 🔭 I’m currently working on **personal projects**
-- 💬 Ask me about **Java, Kotlin, PHP and Laravel**
+- 💬 Ask me about **Java, Kotlin and Android**
 - 📫 How to reach me: **emisaelreyesc11@gmail.com**
 
 ---
